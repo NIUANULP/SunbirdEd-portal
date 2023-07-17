@@ -145,7 +145,7 @@
     "codelyzer": "^5.1.2",
     "husky": "^4.2.5",
     "jest": "^27.5.1",
-    "jest-preset-angular": "^14.15.0",
+    "jest-preset-angular": "^13.1.0",
     "md5": "2.2.1",
     "minimist": "^1.2.5",
     "protractor": "~7.0.0",
