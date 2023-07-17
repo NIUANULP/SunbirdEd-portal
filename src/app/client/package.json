@@ -24,7 +24,7 @@
     "ext": "png,jpeg,js,ts,html,json,css,scss"
   },
   "engines": {
-    "node": ">=14.15.0",
+    "node": ">=16.7.0",
     "npm": ">=8.19.3"
   },
   "private": true,
@@ -145,7 +145,7 @@
     "codelyzer": "^5.1.2",
     "husky": "^4.2.5",
     "jest": "^27.5.1",
-    "jest-preset-angular": "^11.1.1",
+    "jest-preset-angular": "^14.15.0",
     "md5": "2.2.1",
     "minimist": "^1.2.5",
     "protractor": "~7.0.0",
